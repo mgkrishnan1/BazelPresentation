@@ -1,6 +1,6 @@
 SimpleCPP
 bazel build //Source:source
-bazel-bin\main\source.exe
+bazel-bin/main/source.exe
 
 
 Graph for SimpleCPP
